@@ -1,0 +1,10 @@
+w02-140217-10-LR-About:HKI, From:Lecturer
+w02-140217-10-LR-About:HKI, From:Lecturer
+w02-140217-11-LR-About:Scripting-1, From:Lecturer
+w02-140217-11-LR-About:Scripting-1, From:Lecturer
+w02-140217-20-PS-About:GitHub Learning
+w02-160217-10-LR-About:Scripting-2, From:Lecturer
+w02-160217-11-LR-About:Scripting-2, From:Lecturer
+w02-160217-11-LR-About:Scripting-3, From:Lecturer
+w02-160217-11-LR-About:Scripting-3, From:Lecturer
+w02-160217-21-LR-About:Shell Scripting, From:https://www.youtube.com/watch?v=3NIpC4WNoGM
