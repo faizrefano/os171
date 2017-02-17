@@ -20,3 +20,8 @@ drwxr-xr-x  2 faiz.muhammad51 StafCS 4096 Feb 17 17:47 week09
 drwxr-xr-x  2 faiz.muhammad51 StafCS 4096 Feb 17 17:47 week10
 drwxr-xr-x  2 faiz.muhammad51 StafCS 4096 Feb 17 17:50 xtra
 /home/fasilkom/mahasiswa/f/faiz.muhammad51/os171/week01
+Today is 
+Today is date + %d\ %b\ %Y\ at\ %H:%M%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 17 Feb 2017 at 19:02:32
