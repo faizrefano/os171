@@ -1,0 +1,9 @@
+w03-170228-10-LR-About: BIOS ,boot,and UpStart ,From:Lecturer
+w03-170228-10-LR-About:	BIOS, boot,and UpStart ,From:Lecturer
+w03-170228-11-LR-About: UEFI dan UpStart ,From:Lecturer
+w03-170228-11-LR-About: UEFI dan UpStart ,From:Lecturer
+w03-170302-10-DS-About:	Discuss Scripting booting
+w03-170302-10-DS-About: Discuss Scripting booting
+w03-170302-11-LR-About: Watching demo from lecturer
+w03-170302-11-LR-About: Watching demo from lecturer
+
