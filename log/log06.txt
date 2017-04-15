@@ -1,0 +1,8 @@
+w06-170411-10-LR-About:Fork,From: Lecturer
+w06-170411-10-LR-About:Fork , From:Lecturer
+w06-170411-11-DS-Discuss Fork Algorithm
+w06-170411-11-Watching demo from lecturer
+w06-170413-10-LR-About:Semaphore,Deadlock,Synchronize ,From:Lecturer
+w06-170413-10-LR-About:Semaphore,Deadlock,Synchronize , From:Lecturer
+w06-170413-11-Watching demo from lecturer
+w06-170413-11-DS-Discuss soal fork
