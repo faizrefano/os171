@@ -1,0 +1,12 @@
+w07-170418-10-LR-About :Synchronization, From:Lecturer
+w07-170418-10-LR-About :Synchronization, From:Lecturer
+w07-170418-11-LR-About :CPU Utilization, From:Lecturer
+w07-170418-11-DS-Discuss soal synchronization
+w07-170420-10-LR-About :Scheduling, From:Lecturer
+w07-170420-10-LR-About :Shceduling, From:Lecturer
+w07-170420-11-DS-latihan soal scheduling
+w07-170420-11-DS-latihan soal scheduling
+w07-170421-19-PS-Mengerjakan lab week07
+w07-170421-19-PS-Mengerjakan lab week07
+w07-170421-20-PS-Mengerjakan lab week07
+w07-170421-20-PS-Mengerjakan lab week07
