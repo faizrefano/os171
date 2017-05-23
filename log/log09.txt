@@ -1,0 +1,4 @@
+w09-170518-10-LR-About :File System From:Lecturer
+w09-170518-10-LR-About :File System, From:Lecturer
+w09-170518-11-LR-About :Raid, From:Lecturer
+w09-170518-11-DS-Discuss : soal File System
