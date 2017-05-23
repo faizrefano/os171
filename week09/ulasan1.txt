@@ -1,7 +1,8 @@
 Github Account: faizrefano
 URL Ulasan :http://faizrefano.blogspot.com/2017/05/ulasan-1-richard-stallman-free-software.html
 URL Video :https://youtu.be/4JJfdWXSOHE
-Video Author :Ubuntu expert tutorial
+Video Author :modplanman
 Pemetaan : week01
 Revisi pertama :20 May 2017
-Revisi terakhir :20 May 2017
+Revisi terakhir :22 May 2017
+
